@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+.pytest_cache/
+.mypy_cache/
+.coverage
+.DS_Store
